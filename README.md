@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Alireza
 
-- 🔭 I’m currently working on [Jibimo](https://jibimo.com)
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: alirezadp10@gmail.com
 
