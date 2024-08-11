@@ -21,4 +21,4 @@
 
 ### My contributions to laravel/framework:
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+is%3Amerged+author%3Aalirezadp10+"> My Merged PRs on laravel/framework</a>
+- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezadp10+"> My Merged PRs on laravel/framework</a>
