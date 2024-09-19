@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alirezadp10&card_width=490&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadp10&layout=compact)](https://github.com/alirezadp10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadp10)](https://github.com/alirezadp10/github-readme-stats)
 
 ### My contributions to laravel/framework:
 
