@@ -12,9 +12,14 @@
 
 ![alirezadp10](https://komarev.com/ghpvc/?username=alirezadp10)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=alirezadp10)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alirezadp10)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alirezadp10" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=alirezadp10" />
+  </a>
+</p>
 
 ### My contributions to laravel/framework:
 
