@@ -3,7 +3,7 @@
 # You can hire me:
 
 <div>
-  <a href="https://linkedin.com/in/alireza-goodarzi-63aa121b2/">
+  <a href="https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/alirezadp10">
