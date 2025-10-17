@@ -4,9 +4,17 @@
 
 # You can hire me:
 
-[![Gmail Badge](https://img.shields.io/badge/-alirezadp10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alirezadp10@gmail.com)](mailto:alirezadp10@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-alirezadp10-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alireza-goodarzi-63aa121b2/)](https://linkedin.com/in/alireza-goodarzi-63aa121b2/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/alirezadp10/)](https://t.me/alirezadp10/)
+<div>
+  <a href="https://linkedin.com/in/alireza-goodarzi-63aa121b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/alirezadp10">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:alirezadp10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ## My Github Stats:
 
