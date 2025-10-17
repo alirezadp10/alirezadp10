@@ -16,8 +16,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alirezadp10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadp10)](https://github.com/alirezadp10/github-readme-stats)
-
 ### My contributions to laravel/framework:
 
 - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezadp10+"> My PRs on laravel/framework</a>
