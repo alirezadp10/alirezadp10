@@ -2,8 +2,6 @@
 
 # Hi there 👋, I'm Alireza 
 
----
-
 ## 💼 You can hire me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/)
