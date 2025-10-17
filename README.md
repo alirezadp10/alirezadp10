@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
 
 # Hi there 👋, I'm Alireza 
 
@@ -7,6 +6,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/alirezadp10)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezadp10@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
 
 ## ⚙️ My GitHub Stats
 
