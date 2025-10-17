@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Alireza
+![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
+
+### Hi there 👋, I'm Alireza 
 
 ---
 
@@ -10,10 +12,10 @@
 
 ## ⚙️ My GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
-
-![Alireza’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadp10)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alirezadp10)
+<p align="center"> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirezadp10" /> 
+  <img width="49%" src="https://streak-stats.demolab.com/?user=alirezadp10" /> 
+</p>
 
 ## 🧩 My Contributions to Laravel Framework
 
