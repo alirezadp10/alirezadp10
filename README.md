@@ -1,6 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
+<div align="justify">
+  <h2 aligh="left">Hi there 👋, I'm Alireza</h2>
+  <img align="right" src="https://komarev.com/ghpvc/?username=alirezadp10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-## Hi there 👋, I'm Alireza 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/alirezadp10)
