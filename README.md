@@ -1,28 +1,20 @@
 ### Hi there 👋, I'm Alireza
 
-# You can hire me:
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/alirezadp10">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:alirezadp10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+## 💼 You can hire me
 
-## My Github Stats:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alireza-goudarzi-63aa121b2/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/alirezadp10)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezadp10@gmail.com)
 
-![alirezadp10](https://komarev.com/ghpvc/?username=alirezadp10)
+## ⚙️ My GitHub Stats
 
-<p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirezadp10" />
-    <img width="49%" src="https://streak-stats.demolab.com/?user=alirezadp10" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=alirezadp10)
 
-## My contributions to laravel/framework:
+![Alireza’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadp10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alirezadp10)
 
-- <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezadp10+"> My PRs on laravel/framework</a>
+## 🧩 My Contributions to Laravel Framework
+
+- [My PRs on laravel/framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezadp10+)
