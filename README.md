@@ -13,12 +13,8 @@
 ![alirezadp10](https://komarev.com/ghpvc/?username=alirezadp10)
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirezadp10" />
-  </a>
-  <a href="https://git.io/streak-stats">
     <img width="49%" src="https://streak-stats.demolab.com/?user=alirezadp10" />
-  </a>
 </p>
 
 ### My contributions to laravel/framework:
