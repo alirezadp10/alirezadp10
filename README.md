@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Alireza
 
-- 📫 How to reach me: alirezadp10@gmail.com
-
 # You can hire me:
 
 <div>
