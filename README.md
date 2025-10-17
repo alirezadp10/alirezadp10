@@ -21,6 +21,8 @@
 ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+---
+
 ## ⚙️ My GitHub Stats
 
 <p align="center"> 
