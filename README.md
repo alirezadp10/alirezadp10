@@ -25,7 +25,7 @@
 
 ---
 
-## ⚙️ My GitHub Stats
+### ⚙️ My GitHub Stats
 
 <p align="center"> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alirezadp10" /> 
@@ -34,6 +34,6 @@
 
 ---
 
-## 🧩 My Contributions to Laravel Framework
+### 🧩 My Contributions to Laravel Framework
 
 - [My PRs on laravel/framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aalirezadp10+)
